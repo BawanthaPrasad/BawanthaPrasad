@@ -40,9 +40,9 @@
 
 # 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bawantha-prasad&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bawantha-prasad&theme=tokyonight)
-[![Bawantha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bawantha-prasad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BawanthaPrasad&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BawanthaPrasad&theme=tokyonight)
+[![Bawantha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BawanthaPrasad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
