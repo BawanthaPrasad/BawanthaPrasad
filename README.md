@@ -40,7 +40,8 @@
 
 # 📊 GitHub Stats & Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BawanthaPrasad&show_icons=true&theme=tokyonight)
+![GitHub Stats 2025](https://github-readme-stats.vercel.app/api?username=BawanthaPrasad&show_icons=true&theme=tokyonight&custom_title=Bawantha%20Prasad's%202025%20Stats)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=BawanthaPrasad&theme=tokyonight)
 [![Bawantha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BawanthaPrasad&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -49,7 +50,7 @@
 # 🌟 Featured Projects
 
 - 🔹 [**The Gallery Cafe**](https://github.com/bawantha-prasad/the-gallery-cafe) — A stylish online cafe ordering system 🍽️  
-- 🔹 [**BudgetWise**](https://github.com/bawantha-prasad/budgetwise) — Smart finance management app 💰  
+- 🔹 [**BudgetWise**](https://github.com/bawantha-prasad/budgetwise) — Smart finance management web app 💰  
 - 🔹 [**CLMS**](https://github.com/bawantha-prasad/clms) — Classroom Management System for teachers and students 🏫  
 
 ---
